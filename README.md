@@ -1,51 +1,53 @@
 # Hi there 👋 I'm Roselle!
 
 I'm a passionate developer who enjoys building clean and engaging applications for **web and mobile**.  
-I love learning new technologies and improving my development skills every day through **hands-on projects**.
+I love learning new technologies and improving my development skills every day through hands-on projects.
 
 ---
 
 ## 🚀 Featured Project  
 # 🥤 Container Beverages Classification App
 
-This project is a **mobile application** developed using **Flutter** that identifies different **beverage containers** through **image classification**.  
-It was created as part of our **IT108 Final Project** and integrates **Machine Learning** using **Teachable Machine** and **TensorFlow Lite**.
+This project is a **Flutter-based mobile application** that identifies different **beverage containers** using **image classification**.  
+It was developed as part of our **IT108 Final Project**, integrating **Teachable Machine** and **TensorFlow Lite**.
 
-The system allows users to **scan containers using the camera** or **upload images** and automatically classify the container type.
+Users can **scan containers using the camera** or **upload images from the gallery** to automatically classify the container type.
 
 ---
 
 ## 🎯 Project Objectives
 - 📸 Identify beverage containers using images  
-- 🧠 Apply machine learning for image classification  
-- 📊 Provide analytics and scan history  
-- 📱 Build a user-friendly Flutter mobile application  
+- 🧠 Apply machine learning for accurate classification  
+- 📊 Display analytics and scan history  
+- 📱 Provide a clean and user-friendly mobile interface  
 
 ---
 
-## 🥤 Supported Container Classes
+## 🥤 Beverage Container Classes
 
-The application can classify the following **10 beverage container types**:
+Below are the **10 supported container types**, with sample images from the dataset and short descriptions:
 
-- Mug  
-- Coconut Shell Cup  
-- Paper Cup  
-- Aluminum Can  
-- Plastic Bottle  
-- Glass Bottle  
-- Thermos Flask  
-- Tumbler  
-- Wine Glass  
-- Water Jug  
+| Container | Image | Description |
+|---------|-------|-------------|
+| **Mug** | <img src="Container_Beverages_Class_Images/mug.jpg" width="120"/> | A sturdy cup with a handle, commonly used for hot beverages like coffee or tea. |
+| **Coconut Shell Cup** | <img src="Container_Beverages_Class_Images/coconut_shell_cup.jpg" width="120"/> | An eco-friendly cup made from coconut shells, often used for natural or traditional drinks. |
+| **Paper Cup** | <img src="Container_Beverages_Class_Images/paper_cup.jpg" width="120"/> | A disposable cup commonly used for takeaway beverages. |
+| **Aluminum Can** | <img src="Container_Beverages_Class_Images/aluminum_can.jpg" width="120"/> | A lightweight metal container typically used for soft drinks and canned beverages. |
+| **Plastic Bottle** | <img src="Container_Beverages_Class_Images/plastic_bottle.jpg" width="120"/> | A common container for water, juice, and soft drinks made of plastic material. |
+| **Glass Bottle** | <img src="Container_Beverages_Class_Images/glass_bottle.jpg" width="120"/> | A transparent bottle often used for soda, juice, or other beverages. |
+| **Thermos Flask** | <img src="Container_Beverages_Class_Images/thermos_flask.jpg" width="120"/> | An insulated container designed to keep drinks hot or cold for long periods. |
+| **Tumbler** | <img src="Container_Beverages_Class_Images/tumbler.jpg" width="120"/> | A reusable cup often used for both hot and cold beverages. |
+| **Wine Glass** | <img src="Container_Beverages_Class_Images/wine_glass.jpg" width="120"/> | A stemmed glass specifically designed for serving wine. |
+| **Water Jug** | <img src="Container_Beverages_Class_Images/water_jug.jpg" width="120"/> | A large container used for storing and pouring water. |
 
 ---
 
 ## 📱 Application Features
-- 📷 **Camera Scan** – classify containers in real time  
-- 🖼️ **Image Upload** – classify from gallery photos  
-- 📊 **Analytics** – view container statistics using graphs  
-- 🕒 **Scan History** – track previous scans  
-- 🎨 **Simple & Clean UI** – easy navigation for users  
+- 📷 **Camera Scan** – real-time container recognition  
+- 🖼️ **Image Upload** – classify images from the gallery  
+- 📊 **Analytics** – graphical summary of container types  
+- 🕒 **Scan History** – review previous classifications  
+- 🎨 **Simple UI** – easy navigation and clean design  
 
 ---
 
@@ -69,7 +71,6 @@ The application can classify the following **10 beverage container types**:
 ## 🗂️ Project Structure
 
 
-
 ---
 
 ## 🔧 Technologies I Use
@@ -83,29 +84,7 @@ The application can classify the following **10 beverage container types**:
 
 ---
 
-## 📌 What I'm Working On
-- Improving my **full-stack development skills**  
-- Building projects in **Python, Java, and Flutter**  
-- Expanding my portfolio with **web and mobile applications**  
-
----
-
-## 📚 What I'm Learning
-- Advanced Flutter UI/UX  
-- Backend development  
-- Better software architecture and clean code practices  
-
----
-
-## 🤝 I'm Looking for Help With
-- Integrating **AI and ML tools** into mobile apps  
-- Improving application performance and structure  
-
----
-
 ## 📫 How to Reach Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosellepazo19@gmail.com)
 
 📧 **Email:** rosellepazo19@gmail.com  
 
