@@ -25,110 +25,78 @@ Users can **scan containers using the camera** or **upload images from the galle
 
 ## 🥤 Beverage Container Classes
 
-> 📁 Image source: `Container_Beverages_Class_Images/`
+📁 **Image source:** `Container_Beverages_Class_Images/`
 
 <table align="center">
 <tr>
-<td align="center">
-<img src="Container_Beverages_Class_Images/Mug.jpg" width="120"/><br>
-<b>Mug</b><br>
-A cup with a handle commonly used for hot beverages.
-</td>
-
-<td align="center">
-<img src="Container_Beverages_Class_Images/CoconutShellCup.jpg" width="120"/><br>
-<b>Coconut Shell Cup</b><br>
-An eco-friendly cup made from coconut shells.
-</td>
-
-<td align="center">
-<img src="Container_Beverages_Class_Images/PaperCup.jpg" width="120"/><br>
-<b>Paper Cup</b><br>
-A disposable cup for takeaway drinks.
-</td>
+<td align="center"><img src="Container_Beverages_Class_Images/Mug.jpg" width="120"/><br><b>Mug</b></td>
+<td align="center"><img src="Container_Beverages_Class_Images/CoconutShellCup.jpg" width="120"/><br><b>Coconut Shell Cup</b></td>
+<td align="center"><img src="Container_Beverages_Class_Images/PaperCup.jpg" width="120"/><br><b>Paper Cup</b></td>
 </tr>
 
 <tr>
-<td align="center">
-<img src="Container_Beverages_Class_Images/AluminumCan.avif" width="120"/><br>
-<b>Aluminum Can</b><br>
-A lightweight metal container for beverages.
-</td>
-
-<td align="center">
-<img src="Container_Beverages_Class_Images/PlasticBottle.webp" width="120"/><br>
-<b>Plastic Bottle</b><br>
-A common container for water and soft drinks.
-</td>
-
-<td align="center">
-<img src="Container_Beverages_Class_Images/GlassBottle.jpg" width="120"/><br>
-<b>Glass Bottle</b><br>
-A transparent bottle used for various drinks.
-</td>
+<td align="center"><img src="Container_Beverages_Class_Images/AluminumCan.avif" width="120"/><br><b>Aluminum Can</b></td>
+<td align="center"><img src="Container_Beverages_Class_Images/PlasticBottle.webp" width="120"/><br><b>Plastic Bottle</b></td>
+<td align="center"><img src="Container_Beverages_Class_Images/GlassBottle.jpg" width="120"/><br><b>Glass Bottle</b></td>
 </tr>
 
 <tr>
-<td align="center">
-<img src="Container_Beverages_Class_Images/ThermosFlask.jpg" width="120"/><br>
-<b>Thermos Flask</b><br>
-An insulated container that keeps drinks hot or cold.
-</td>
-
-<td align="center">
-<img src="Container_Beverages_Class_Images/Tumbler.jpg" width="120"/><br>
-<b>Tumbler</b><br>
-A reusable cup for hot or cold beverages.
-</td>
-
-<td align="center">
-<img src="Container_Beverages_Class_Images/WineGlass.jpg" width="120"/><br>
-<b>Wine Glass</b><br>
-A stemmed glass designed for wine.
-</td>
+<td align="center"><img src="Container_Beverages_Class_Images/ThermosFlask.jpg" width="120"/><br><b>Thermos Flask</b></td>
+<td align="center"><img src="Container_Beverages_Class_Images/Tumbler.jpg" width="120"/><br><b>Tumbler</b></td>
+<td align="center"><img src="Container_Beverages_Class_Images/WineGlass.jpg" width="120"/><br><b>Wine Glass</b></td>
 </tr>
 
 <tr>
-<td align="center">
-<img src="Container_Beverages_Class_Images/WaterJug.jpg" width="120"/><br>
-<b>Water Jug</b><br>
-A large container used for storing and pouring water.
-</td>
+<td align="center"><img src="Container_Beverages_Class_Images/WaterJug.jpg" width="120"/><br><b>Water Jug</b></td>
 </tr>
 </table>
 
 ---
 
-## 📱 Application Features (with Screenshots)
+## 📱 Application Features (WORKING IMAGES)
 
-> 📁 Image source: `Application_Screenshot/`
+📁 **Image source:** `Application_Screenshot/`
 
 <table align="center">
 <tr>
 <td align="center">
-<img src="Application_Screenshot/Home%20Page.jpg" width="200"/><br>
-<b>Home Screen</b><br>
-Main dashboard for navigating the app.
+<img src="Application_Screenshot/Splash_Screen.jpg" width="220"/><br>
+<b>Splash Screen</b><br>
+Initial loading screen displayed when the app starts.
 </td>
 
 <td align="center">
-<img src="Application_Screenshot/Scan%20Page.jpg" width="200"/><br>
-<b>Camera Scan</b><br>
-Scan beverage containers using the camera.
+<img src="Application_Screenshot/Homepage.jpg" width="220"/><br>
+<b>Home Page</b><br>
+Main navigation screen of the application.
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="Application_Screenshot/Analytics%20Page.jpg" width="200"/><br>
-<b>Analytics</b><br>
-Graphical summary of classified containers.
+<img src="Application_Screenshot/Scan_Detection.jpg" width="220"/><br>
+<b>Scan Detection</b><br>
+Uses the camera to identify beverage containers.
 </td>
 
 <td align="center">
-<img src="Application_Screenshot/History%20Page.jpg" width="200"/><br>
-<b>Scan History</b><br>
-View previously scanned containers.
+<img src="Application_Screenshot/Analytics.jpg" width="220"/><br>
+<b>Analytics</b><br>
+Displays graphs and statistics of classified containers.
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="Application_Screenshot/Container_Breakdown.jpg" width="220"/><br>
+<b>Container Breakdown</b><br>
+Shows the distribution of detected container types.
+</td>
+
+<td align="center">
+<img src="Application_Screenshot/History.jpg" width="220"/><br>
+<b>History</b><br>
+Displays previously scanned containers.
 </td>
 </tr>
 </table>
