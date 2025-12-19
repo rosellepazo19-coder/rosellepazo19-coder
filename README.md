@@ -42,12 +42,15 @@ Below are the **10 supported container types**, with sample images from the data
 
 ---
 
-## 📱 Application Features
-- 📷 **Camera Scan** – real-time container recognition  
-- 🖼️ **Image Upload** – classify images from the gallery  
-- 📊 **Analytics** – graphical summary of container types  
-- 🕒 **Scan History** – review previous classifications  
-- 🎨 **Simple UI** – easy navigation and clean design  
+## 📱 Application Features (with Screenshots)
+
+| Feature | Screenshot | Description |
+|-------|------------|-------------|
+| **Home Screen** | <img src="Application_Screenshot/Home.jpg" width="200"/> | The main dashboard that provides navigation to scanning, analytics, and history. |
+| **Camera Scan** | <img src="Application_Screenshot/Scan.jpg" width="200"/> | Allows users to scan beverage containers using the device camera. |
+| **Image Upload** | <img src="Application_Screenshot/Upload.jpg" width="200"/> | Enables users to upload images from the gallery for classification. |
+| **Analytics** | <img src="Application_Screenshot/Analytics.jpg" width="200"/> | Displays graphs and statistics of classified containers. |
+| **Scan History** | <img src="Application_Screenshot/History.jpg" width="200"/> | Shows previously scanned containers for tracking and review. |
 
 ---
 
